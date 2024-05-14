@@ -1,20 +1,20 @@
-# SITHU-QR
+# ABRO-QR
 
 - **╔════◇**
-- **║ 🧚‍♂️ THANKS YOU CHOOSE SITHU-MD 🧚‍♂️**
+- **║ 🧚‍♂️ THANKS YOU CHOOSE ABRO-MD1 🧚‍♂️**
 - **╚════════════════════════╝**
 #
 - **╔═════◇**
 - **║  『•••💃 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 💃•••』**
 - **║**
-- **║ YOUTUBE : _youtube.com/SITHUWA-MD_**
-- **║ OWNER: _https://wa.me/94761516805_**
-- **║ SUPPORT: _https://chat.whatsapp.com/H0FUK41cUp8D2Up9BGI8Ji_**
-- **║ REPO https://github.com/Sithuwa**
+- **║ YOUTUBE : _COMING SOON_**
+- **║ OWNER: _https://wa.me/2348100151048_**
+- **║ SUPPORT: _SOON..._**
+- **║ REPO https://github.com/Temitopeareo**
 - **╚════════════════════════╝**
 # 
 - **┎┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┒**
 - **┋ᴄʀᴇᴀᴛᴇ ʙʏ;-**
 - **┋    ꜱɪᴛʜᴜᴍ ᴋᴀʟʜᴀʀᴀ,**
-- **┋    ᴜᴅᴀʏᴀɴɢᴀ ᴘʀᴀᴅᴇᴇᴘ,**
+- **┋    ABRO TECH,**
 - **┖┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┙**
