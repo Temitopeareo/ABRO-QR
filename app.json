@@ -1,9 +1,9 @@
 {
-    "name": "SITHU-QR",
-    "description": "I am SITHU-MD Whatsapp BOT built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SITHUWA-MD",
-    "logo": "https://telegra.ph/file/f9e51e5d61e439020720a.jpg",
-    "repository": "https://github.com/Sithuwa/SITHU-QR",
-    "keywords": ["whatsappbot", "sithumd", "Sithu Md Bot", "SITHU-MD", "SithuMdWhatsaooBot", "SithuWaBot","SithuMD","Sithu Md Whatsapp Bot","multi device"],
+    "name": "ABRO-QR",
+    "description": "I am ABRO-MD Whatsapp BOT built in NodeJs to make experience better\n\t if Any Problem : CALL ME",
+    "logo": "https://imgur.com/7doiWDc.jpg",
+    "repository": "https://github.com/Temitopeareo/ABRO-QR",
+    "keywords": ["whatsappbot", "abromd", "Abroo Md Bot", "ABRO-MD", "AbroMdWhatsappBot", "AbroWaBot","AbroMD","Abro Md Whatsapp Bot","multi device"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
@@ -14,7 +14,7 @@
       },
       "MESSAGE": {
         "description": "set session id conformation message",
-        "value": "╔════◇\n║ *🧚‍♂️ THANKS YOU CHOOSE SITHU-MD 🧚‍♂️*\n║ _You complete first step to making Bot._\n╚════════════════════════╝\n╔═════◇\n║  『•••💃 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 💃•••』\n║\n║ *YOUTUBE :* _youtube.com/SITHUWA-MD_\n║ *OWNER:* _https://wa.me/94761516805_\n║ *SUPPORT:* _https://chat.whatsapp.com/IZpUGOxDi9vEogXXyY9Mpi_\n║ *REPO* https://github.com/Sithuwa/SITHU-MD\n╚════════════════════════╝\n\n*┎┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┒*\n*┋ᴄʀᴇᴀᴛᴇ ʙʏ;-*\n*┋    ꜱɪᴛʜᴜᴍ ᴋᴀʟʜᴀʀᴀ,*\n*┋    ᴜᴅᴀʏᴀɴɢᴀ ᴘʀᴀᴅᴇᴇᴘ,*\n*┖┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┙*",
+        "value": "╔════◇\n║ *🧚‍♂️ THANKS YOU CHOOSE ABRO-MD 🧚‍♂️*\n║ _You complete first step to making Bot._\n╚════════════════════════╝\n╔═════◇\n║  『•••💃 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 💃•••』\n║\n║ *YOUTUBE :* _youtube.com/SITHUWA-MD_\n║ *OWNER:* _https://wa.me/2348100151048_\n║ *SUPPORT:* _wa.me/2348100151048_\n║ *REPO* https://github.com/Temitopeareo/ABRO-MD1\n╚════════════════════════╝\n\n*┎┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┒*\n*┋ᴄʀᴇᴀᴛᴇ ʙʏ;-*\n*┋    ABRO TECH,*\n*┋    SITHUM KALHARA,*\n*┖┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┙*",
         "required": false 
       }
     }   
