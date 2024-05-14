@@ -18,3 +18,4 @@
 - **┋    ꜱɪᴛʜᴜᴍ ᴋᴀʟʜᴀʀᴀ,**
 - **┋    ABRO TECH,**
 - **┖┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┙**
+<a href='https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FTemitopeareo%2FABRO-QR%3Ftab%3Dreadme-ov-file&template=https%3A%2F%2Fgithub.com%2FTemitopeareo%2FABRO-QR' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
